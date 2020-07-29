@@ -12,4 +12,5 @@ About: :computer: Science Student | Web Development | Data Science | Mountains |
 - Reach Me At: <br>
 :email: saurav.maharana07@gmail.com <br>
 :iphone: +91-8328854263
-- ⚡ Fun fact: Introvert
+- ⚡ Fun fact: Introvert, Party, Sleep
+- :heart: 
