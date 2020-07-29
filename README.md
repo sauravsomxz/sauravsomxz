@@ -6,9 +6,24 @@
 ##### About: :computer: Science Student | Web Development | Data Science | Blockchain | Computer-Human Interaction Researcher | Mountains |  Jack Daniels<br>
 Belief: "That's All You've to Decide, To Live A Life With No Regrets."
 
+:man_technologist:
+  * Web Development
+    - HTML5
+    - CSS3
+    - JS(ES6)
+    - Bootstrap4
+  * Data Analysis
+    - Python - NumPy, Pandas, Matplotlib, Seaborne, etc.
+    - A/B Hypothesis Testing, 
+    - Tweaking existing Algorithms
+    - MySQL
+  * Blockchain
+    - Learning
+    
+    
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Science
-- 🤔 I’m looking for help with Android App Development
+- 🤔 I’m looking for help with Android App Development & Cloud Computing
 - Reach Me At: <br>
 :email: saurav.maharana07@gmail.com <br>
 :iphone: +91-8328854263<br>
