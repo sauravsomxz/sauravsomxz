@@ -17,9 +17,6 @@ Belief: "That's All You've to Decide, To Live A Life With No Regrets."
     - A/B Hypothesis Testing, 
     - Tweaking existing Algorithms
     - MySQL
-  * Blockchain
-    - Learning
-    
     
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Science
