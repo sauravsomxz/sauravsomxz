@@ -17,5 +17,5 @@ Belief: "That's All You've to Decide, To Live A Life With No Regrets."
 <a href = "https://www.linkedin.com/in/sourav-ranjan-maharana/">LinkedIn</a><br>
 <a href = "https://twitter.com/SouravRanjanMa4">Twitter</a><br>
 - 🎓 : Symbiosis International(Deemed University), Pune, Maharashtra, India
-- ⚡ Fun fact: Introvert, Party, Sleep
+- ⚡ Fun fact: Introvert, Party, Sleep<br>
 :heart:
