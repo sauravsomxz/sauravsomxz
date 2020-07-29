@@ -3,8 +3,8 @@
 <!--
 **sauravsomxz/sauravsomxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# About: :computer: Science Student | Web Development | Data Science | Blockchain | Computer-Human Interaction Researcher | Mountains |  Jack Daniels<br>
-## Believes: "That's All You've to Decide, To Live A Life With No Regrets."
+<p>About: :computer: Science Student | Web Development | Data Science | Blockchain | Computer-Human Interaction Researcher | Mountains |  Jack Daniels</p><br>
+<p>Believes: "That's All You've to Decide, To Live A Life With No Regrets."</p>
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Science
