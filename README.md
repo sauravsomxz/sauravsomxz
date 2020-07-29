@@ -4,7 +4,7 @@
 **sauravsomxz/sauravsomxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ##### About: :computer: Science Student | Web Development | Data Science | Blockchain | Computer-Human Interaction Researcher | Mountains |  Jack Daniels<br>
-<p>Believes: "That's All You've to Decide, To Live A Life With No Regrets."</p>
+Belief: "That's All You've to Decide, To Live A Life With No Regrets."
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Science
