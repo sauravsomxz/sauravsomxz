@@ -12,10 +12,10 @@ Belief: "That's All You've to Decide, To Live A Life With No Regrets."
 - Reach Me At: <br>
 :email: saurav.maharana07@gmail.com <br>
 :iphone: +91-8328854263<br>
-Linkedin: https://www.linkedin.com/in/sourav-ranjan-maharana/<br>
-Instagram: https://www.instagram.com/oldschoolboy17/?hl=en<br>
-Twitter: https://twitter.com/SouravRanjanMa4<br>
-Facebook: https://www.facebook.com/somx.pb/<br>
+<a href = "https://www.facebook.com/somx.pb/">Facebook</a><br>
+<a href = "https://www.instagram.com/oldschoolboy17/?hl=en">Instagram</a><br>
+<a href = "https://www.linkedin.com/in/sourav-ranjan-maharana/">LinkedIn</a><br>
+<a href = "https://twitter.com/SouravRanjanMa4">Twitter</a><br>
 - 🎓 : Symbiosis International(Deemed University), Pune, Maharashtra, India
 - ⚡ Fun fact: Introvert, Party, Sleep
 :heart:
