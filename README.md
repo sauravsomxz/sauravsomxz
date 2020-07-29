@@ -1,4 +1,4 @@
-# Hola | Bonjour | Namaste | Olá
+# Namaste | Hola | Bonjour | Olá
 
 <!--
 **sauravsomxz/sauravsomxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
