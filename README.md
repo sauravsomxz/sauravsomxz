@@ -27,7 +27,7 @@
              <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data Analytics</td>
              <td align = "center"><img src="https://img.icons8.com/cute-clipart/64/000000/android.png"/><br>Android</td>
-             <td align = "center"><img src="https://img.icons8.com/ios-filled/50/000000/science-application.png"/><br>Data Science</td>
+             <td align = "center"><img src="https://img.icons8.com/ios-filled/30/000000/science-application.png"/><br>Data Science</td>
          </tr>
      </table>
 </details>
