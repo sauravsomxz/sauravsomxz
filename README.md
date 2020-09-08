@@ -13,6 +13,7 @@
              <td align = "center"><img src="https://img.icons8.com/color/30/000000/bootstrap.png"/><br>Bootstrap4</td>
           <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
+             <td align = "center"><img src="https://img.icons8.com/color/30/000000/kotlin.png"/><br>Kotlin</td>
          </tr>
     </table>
          <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsomxz" alt="Languages"/></p>
