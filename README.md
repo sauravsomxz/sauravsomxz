@@ -10,7 +10,7 @@
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/html-5.png"/><br>HTML</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
-             <td align = "center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap4</td>
+             <td align = "center"><img src="https://img.icons8.com/color/30/000000/bootstrap.png"/><br>Bootstrap4</td>
           <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
          </tr>
