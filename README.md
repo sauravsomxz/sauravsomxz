@@ -1,36 +1,42 @@
-# Namaste | Hola | Bonjour | Olá
+<p align="center">
+    <strong>I am currently pursuing BCA from Symbiosis International University. Experienced in Web Development, Data Science, Machine Learning, Cloud Computing, Big Data, Data Mining.</strong><br><br></p>
+</p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=sauravsomxz&show_icons=true&hide_border=true" alt="Profile"/></p>
 
-<!--
-**sauravsomxz/sauravsomxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-##### About: :computer: Science Student | Web Development | Data Science | Blockchain | Computer-Human Interaction Researcher | Mountains |  Jack Daniels<br>
-Belief: "That's All You've to Decide, To Live A Life With No Regrets."
-
-:man_technologist:
-  * Web Development
-    - HTML5
-    - CSS3
-    - JS(ES6)
-    - Bootstrap4
-  * Data Analysis
-    - Python - NumPy, Pandas, Matplotlib, Seaborne, etc.
-    - A/B Hypothesis Testing, 
-    - Tweaking existing Algorithms
-    - MySQL
-    
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Data Science
-- 🤔 I’m looking for help with Android App Development & Cloud Computing
-- Reach Me At: <br>
-:email: saurav.maharana07@gmail.com <br>
-:iphone: +91-8328854263<br>
-<a href = "https://www.facebook.com/somx.pb/">Facebook</a><br>
-<a href = "https://www.instagram.com/oldschoolboy17/?hl=en">Instagram</a><br>
-<a href = "https://www.linkedin.com/in/sourav-ranjan-maharana/">LinkedIn</a><br>
-<a href = "https://twitter.com/SouravRanjanMa4">Twitter</a><br>
-- 🎓 : Symbiosis International(Deemed University), Pune, Maharashtra, India
-- ⚡ Fun fact: Introvert, Party, Sleep<br>
-:heart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=sauravsomxz&show_icons=true&hide_border=true" alt="Profile"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsomxz" alt="Languages"/></p>
+<details align="center">
+    <summary align="center"><strong>Programming Languages:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
+             <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/html-5.png"/><br>HTML</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
+             <td align = "center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap4</td>
+          <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
+         </tr>
+    </table>
+         <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsomxz" alt="Languages"/></p>
+ </details>
+ <details align="center">
+    <summary align="center"><strong>Tools and Technologies:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"/><br>Jupyter Notebook</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data Analytics</td>
+             <td align = "center"><img src="https://img.icons8.com/cute-clipart/64/000000/android.png"/><br>Android</td>
+             <td align = "center"><img src="https://img.icons8.com/ios-filled/50/000000/science-application.png"/><br>Data Science</td>
+         </tr>
+     </table>
+</details>
+<details align="center">
+    <summary align="center"><strong>Contact:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><a href="mailto:saurav.maharana07@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
+             <td  align = "center"><a href="https://www.linkedin.com/in/sourav-ranjan-maharana/"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a></td>
+             <td  align = "center"><a href="https://www.instagram.com/oldschoolboy17/?hl=en"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
+     </tr>
+    </table>
+ </details>
