@@ -31,3 +31,5 @@ Belief: "That's All You've to Decide, To Live A Life With No Regrets."
 - 🎓 : Symbiosis International(Deemed University), Pune, Maharashtra, India
 - ⚡ Fun fact: Introvert, Party, Sleep<br>
 :heart:
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsomxz" alt="Languages"/></p>
