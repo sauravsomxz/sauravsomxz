@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/zXmbOaTpbY6mA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA">via GIPHY</a></p>
+<img src = "http://gph.is/XNpkui" alt = "gif-front>
 <p align="center">
     <strong> :computer: Science Student at Symbiosis International(Deemed Universtiry) | Web Developer Intern | Data Science enthusiast | Wanderlust</strong><br><br></p>
 </p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=sauravsomxz&show_icons=true&hide_border=true" alt="Profile"/></p>
