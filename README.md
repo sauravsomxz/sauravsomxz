@@ -1,6 +1,6 @@
 <p align = "center" ><img src = "https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" alt = "gif-front"/></p>
 <p align="center">
-    <strong> :computer: Science Student at Symbiosis International(Deemed Universtiry) | Web Developer Intern | Data Science enthusiast | Wanderlust</strong><br><br></p>
+    <strong> :computer: Science Student at Symbiosis International(Deemed Universtiry) | Web Developer Intern | Data Science Enthusiast | Wanderlust</strong><br><br></p>
 </p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=sauravsomxz&show_icons=true&hide_border=true" alt="Profile"/></p>
 
 <details align="center">
