@@ -1,9 +1,9 @@
 <p align="center">
-    <strong>I am currently pursuing BCA from Symbiosis International University. Experienced in Web Development, Data Science, Machine Learning, Cloud Computing, Big Data, Data Mining.</strong><br><br></p>
+    <strong> :computer: Science Student at Symbiosis International(Deemed Universtiry) | Web Developer Intern | Data Science enthusiast | Wanderlust</strong><br><br></p>
 </p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=sauravsomxz&show_icons=true&hide_border=true" alt="Profile"/></p>
 
 <details align="center">
-    <summary align="center"><strong>Programming Languages:</strong></summary>
+    <summary align="center"><strong>Programming Languages & Frameworks:</strong></summary>
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
