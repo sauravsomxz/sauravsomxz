@@ -2,6 +2,7 @@
 <p align="center">
     <strong> :computer: Science Student at Symbiosis International(Deemed Universtiry) | Web Developer Intern | Data Science Enthusiast | Wanderlust</strong><br><br></p>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=sauravsomxz&show_icons=true&hide_border=true" alt="Profile"/></p>
+[![Header](https://raw.githubusercontent.com/MartinHeinz/sauravsomxz/sauravsomxz/readme_header.png "Header")](https://some-url.dev/)
 
 <details align="center">
     <summary align="center"><strong>Programming Languages & Frameworks:</strong></summary>
