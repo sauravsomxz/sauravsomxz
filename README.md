@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravsomxz" alt="sauravsomxz" /></a> </p>
 
+<p align="left">I'm currently a UG student at Symbiosis International University, Pune. My hunger for technology has made me dive deep into the world of computing, programing and research. I've worked in Web Development - Both Frontend and Backend Programming. I've also worked with Python, Android, XML, Database Managemment, Data Extraction and Warehousing. Currently, I'm working on OpenCV, Web App using React, and MongoDB database. I'm also a member of the Facebook Developer's Community: Pune Circle as well as Google Developer's Community for SICSR. Soon, I'd be working on Artificial Intelligence and building a model from scratch.</p>
+
 <p align="left"> <a href="https://twitter.com/souravranjanma4" target="blank"><img src="https://img.shields.io/twitter/follow/souravranjanma4?logo=twitter&style=for-the-badge" alt="souravranjanma4" /></a> </p>
 
 - 🔭 I’m currently working on [Face Recognition Login System](https://github.com/sicsr-lab/face-recognition-login-system)
