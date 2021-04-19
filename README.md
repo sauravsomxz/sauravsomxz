@@ -84,6 +84,8 @@
 
 <br/>  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsomxz)
+
 
 ## Connect with me  
 <div align="center">
