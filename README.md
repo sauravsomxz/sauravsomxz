@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsomxz&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsomxz" /> </p>
 
-- 📫 How to reach me **saurav.maharana07@gmail.com**
+- 📫 How to reach me: **saurav.maharana07@gmail.com**
 
 - 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/18F3QRfRNQKlyet5wM1EAaVo3Cc1b1nSw/view?usp=sharing">Resume</a>
 
