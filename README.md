@@ -20,7 +20,7 @@
 <a href="https://twitter.com/souravranjanma4" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="souravranjanma4" height="30" width="100" /></a>
 <a href="https://linkedin.com/in//in/sourav-ranjan-maharana/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="/in/sourav-ranjan-maharana/" height="30" width="120" /></a>
 <a href="https://stackoverflow.com/users/12983629/saurav-ranjan-maharana" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="12983629/saurav-ranjan-maharana" height="30" width="150" /></a>
-<a href="https://kaggle.com//sauravranjanmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="/sauravranjanmaharana" height="30" width="100" /></a>
+<a href="https://kaggle.com/sauravranjanmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="/sauravranjanmaharana" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
