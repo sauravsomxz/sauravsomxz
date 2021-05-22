@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Sourav!</h1>
-<h3 align="center">A passionate developer, researcher from India! 😀</h3>
+<h3 align="center">A Passionate Developer & Researcher from India!😀<br> I 💻, 🌎 and ♥!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsomxz&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsomxz" /> </p>
 
