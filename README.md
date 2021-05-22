@@ -34,7 +34,7 @@
 <img src= "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 </p>
 <hr>
-<h3 align="left">Office, Workspace & Project Management:</h3>
+<h3 align="left">Offices, Project Management Tools & Workspaces:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Libre_Office-D88B03?style=for-the-badge&logo=libre-office&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
