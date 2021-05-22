@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsomxz&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsomxz" /> </p>
 
-- 📫 How to reach me: **saurav.maharana07@gmail.com**
+- 📫 How to reach me: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="saurav.maharana07@gmail.com">
 
 - 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/18F3QRfRNQKlyet5wM1EAaVo3Cc1b1nSw/view?usp=sharing">Resume</a>
 
@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">  
 </p>
 
-<h3 align="left">Music:</h3>
+<h3 align="left">Music & Podcasts:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"/>
