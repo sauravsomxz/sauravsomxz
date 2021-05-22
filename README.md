@@ -8,20 +8,19 @@
 
 - 📫 How to reach me **saurav.maharana07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18F3QRfRNQKlyet5wM1EAaVo3Cc1b1nSw/view?usp=sharing](https://drive.google.com/file/d/18F3QRfRNQKlyet5wM1EAaVo3Cc1b1nSw/view?usp=sharing)
+- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/18F3QRfRNQKlyet5wM1EAaVo3Cc1b1nSw/view?usp=sharing">Resume</a>
 
-- ⚡ Beliefs **"That's All You've to Decide, To Live A Life with No Regrets!"**
+- ⚡ Beliefs:**"That's All You've to Decide, To Live A Life with No Regrets!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/sauravsomxz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img align="center" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github height="30" width="100">
 </a>
-<a href="https://twitter.com/souravranjanma4" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="souravranjanma4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//in/sourav-ranjan-maharana/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="/in/sourav-ranjan-maharana/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12983629/saurav-ranjan-maharana" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="12983629/saurav-ranjan-maharana" height="30" width="40" /></a>
-<a href="https://kaggle.com//sauravranjanmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="/sauravranjanmaharana" height="30" width="40" /></a>
-<a href="https://discord.gg/#8042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#8042" height="30" width="40" /></a>
+<a href="https://twitter.com/souravranjanma4" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="souravranjanma4" height="30" width="100" /></a>
+<a href="https://linkedin.com/in//in/sourav-ranjan-maharana/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="/in/sourav-ranjan-maharana/" height="30" width="120" /></a>
+<a href="https://stackoverflow.com/users/12983629/saurav-ranjan-maharana" target="blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="12983629/saurav-ranjan-maharana" height="30" width="150" /></a>
+<a href="https://kaggle.com//sauravranjanmaharana" target="blank"><img align="center" src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="/sauravranjanmaharana" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
