@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsomxz&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsomxz" /> </p>
 
-- 🔭 I’m currently working on **Flutter Application for My Organization**
+- 🔭 I’m currently working on **Flutter Application for My Organization** || **Freelancing for WordPress(Website Development)** & **Project Fixes in small sprints**
 
 - 🌱 I’m currently learning **Flutter for Web**
 
