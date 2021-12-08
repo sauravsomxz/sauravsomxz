@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saurav.maharana07@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1prgS63XMu0xDpQHoZw504EUwLLbDurkM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17nNKAN9VQc5jFDOsijHY8JCJiDh2bjYD/view?usp=sharing)
 
 - ⚡ Fun fact **I also play games - Mario, Contra. Watch Mickey Mouse, Big Bang Theory, Bob the Builder & Tom & Jerry**
 
